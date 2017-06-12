@@ -1,0 +1,8 @@
+{
+	"Author":"Andries du Plooy",
+    "Email":"judplooy050@gmail.com",
+    "NickName" :"John Java",
+    "BotType": 1,
+    "ProjectLocation" : "",
+    "RunFile" : "target\\sample-bot.jar"
+}
